@@ -5,4 +5,4 @@
 
 
 
-![Tentacle is Running, Middle Man Read Documentation, AAAWallets with iotcrystals](https://raw.githubusercontent.com/TentacleIsRunning/TentacleIsRunning/main/Tentacle_is_Running.jpg)
+![Tentacle is Running, Middleman Read Documentation, AAAWallets with iotcrystals](https://raw.githubusercontent.com/TentacleIsRunning/TentacleIsRunning/main/Tentacle_is_Running.jpg)
